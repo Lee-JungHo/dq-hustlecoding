@@ -1,1 +1,1 @@
-export const baseUrl = "YOUR-API-URL";
+export const baseUrl = "3.39.226.135";
