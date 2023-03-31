@@ -1,1 +1,2 @@
-export const baseUrl = "YOUR-API-URL";
+export const baseUrl = "http://3.39.226.135:8080/";
+ 
